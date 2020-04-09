@@ -1,5 +1,7 @@
 import heapq
 
+__all__ = 'MinHeap', 'MaxHeap'
+
 class MinHeap:
     def __init__(self, data):
         self.data = data if isinstance(data, list) else list(data)
