@@ -3,9 +3,9 @@
 Since no max heap seems to exist for Python, here is a Min and Max Heap
 implementation.
 
-I just stood there, dumbfounded that there is no Max Heap for Python anywhere on
-the internet. Seriously? In 2020? If you can find one, open an Issue and I'll
-check it out.
+I just stood there, dumbfounded that there is [no Max Heap for Python anywhere on
+the internet](https://stackoverflow.com/a/2501527). Seriously? In 2020? If you
+can find one, open an Issue and I'll check it out.
 
 ### Performance
 
